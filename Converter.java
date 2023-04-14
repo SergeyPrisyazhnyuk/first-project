@@ -1,1 +1,3 @@
-ZZZ
+public class Converter {
+
+}
